@@ -1,0 +1,5 @@
+endpoint : mysqldb3.c5kvdhfba2on.ap-south-1.rds.amazonaws.com
+port : 3306
+database:myapp
+UN:admin
+Password:admin123
